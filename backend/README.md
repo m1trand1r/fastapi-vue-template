@@ -1,0 +1,1 @@
+## Добавить url для базы (postgres) в alembic.ini, app.core.config
